@@ -12,11 +12,9 @@ It includes practical applications of supervised, unsupervised, and deep learnin
 
 ---
 
----
-
 ## 📁 Project Structure
 
-generative-ai-aws-exercises/
+aws-ml-certification-exercises/
 ├── README.md
 ├── certificate.pdf
 ├── partyrock/
