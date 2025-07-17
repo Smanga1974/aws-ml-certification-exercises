@@ -15,7 +15,7 @@ It includes practical applications of supervised, unsupervised, and deep learnin
 ---
 
 ## 📁 Project Structure
-
+```
 awd-ml-certification-exercises/
 ├── README.md                              # Project overview and instructions
 ├── Udacitu_Certificate.png                        # AWS Generative AI course certificate
@@ -29,6 +29,7 @@ awd-ml-certification-exercises/
 │   └── customer_churn_prediction.ipynb   # Predict customer churn (Decision Tree)
 ├── neural_network/
 │   └── customer_purchase_prediction.ipynb
+```
 
 ---
 
